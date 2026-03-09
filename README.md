@@ -1,12 +1,15 @@
-# ml-cyber-hygiene-system
-# ML-Based Cyber Hygiene System
+# Crop Yield Prediction System
 
-This project aims to build a machine learning–based system that detects phishing websites and evaluates cybersecurity risks.
+Machine Learning project to predict crop yield using rainfall, temperature, pesticide usage and historical agricultural data.
 
-## Planned Modules
-- URL-based phishing detection
-- Risk scoring system
-- Model comparison (Logistic vs Decision Tree)
-- Deployment (Streamlit / Flask)
+## Technologies
+- Python
+- Scikit-Learn
+- Pandas
+- Flask
 
-Work in progress 🚀
+## Dataset
+Crop yield dataset containing rainfall, temperature and pesticide information.
+
+## Model
+Random Forest Regressor
